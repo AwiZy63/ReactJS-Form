@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.comment-send {
+    padding: 50px;
+    border: 1px solid black;
+}
+
+.form-comment {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+.box {
+    margin: 10px 0;
+    border-radius: 4px;
+    padding: 10px;
+    border: 1px solid #00000030;
+}
+
+.form-content-comment {
+    height: 100px;
+}
+
+.form-submit {
+    background: #1991f1;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: none;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+
